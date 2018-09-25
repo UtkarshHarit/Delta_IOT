@@ -1,0 +1,2 @@
+# Delta_IOT
+A Training Project I did in Florida International University, Miami, Florida. In this there are two NodeMCU controllers one for inside the room and another for the roof to calculate data of the environment and then to do some operations on these data on an application through web services. Where web services are collecting real time data from the sensors and analyzing this data on the application in real time.
